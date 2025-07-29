@@ -1,5 +1,12 @@
 # Changelog
 
+## [24.9.1](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v24.9.0...v24.9.1) (2025-07-29)
+
+
+### Bug Fixes
+
+* **detect:** Detect `_TZE204_jktmrpoj` as Moes ZM-102-M ([#9706](https://github.com/Koenkk/zigbee-herdsman-converters/issues/9706)) ([272beb7](https://github.com/Koenkk/zigbee-herdsman-converters/commit/272beb7d9594b7d02380d0a9bc0887274bff1b7a))
+
 ## [24.9.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v24.8.0...v24.9.0) (2025-07-29)
 
 
