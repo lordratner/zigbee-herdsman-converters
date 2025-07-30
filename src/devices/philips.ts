@@ -4044,6 +4044,13 @@ export const definitions: DefinitionWithExtend[] = [
         extend: [philips.m.light({colorTemp: {range: [153, 500]}, color: {modes: ["xy", "hs"], enhancedHue: true}})],
     },
     {
+        zigbeeModel: ["929003736501_01", "929003736501_02"],
+        model: "929003736501",
+        vendor: "Philips",
+        description: "Hue White and Color Ambiance Datura Ceiling light large",
+        extend: [philips.m.light({colorTemp: {range: [153, 500]}, color: {modes: ["xy", "hs"], enhancedHue: true}})],
+    },    
+    {
         zigbeeModel: ["LGT001", "LGT002", "LGT003"],
         model: "929003711201",
         vendor: "Philips",
